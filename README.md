@@ -8,7 +8,7 @@ Open `index.html` in a web browser. No installation or build process is required
 
 ## Publish with GitHub Pages
 
-1. Upload all files and the `assets` folder to the root of the repository's `main` branch.
+1. Upload every extracted file to the root of the repository's `main` branch.
 2. In the GitHub repository, open **Settings**.
 3. Select **Pages** under **Code and automation**.
 4. Under **Build and deployment**, choose **Deploy from a branch**.
@@ -23,8 +23,8 @@ GitHub will provide the published address after deployment. For a repository nam
 
 - `index.html` - website content and metadata
 - `styles.css` - responsive Editorial Humanist visual design
-- `assets/hero-editorial-biology.png` - hero artwork
-- `assets/favicon.svg` - browser icon
+- `hero-editorial-biology.webp` - optimized hero artwork
+- `favicon.svg` - browser icon
 - `.nojekyll` - ensures GitHub Pages serves the static files directly
 
 ## Updating the site
